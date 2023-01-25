@@ -10,8 +10,8 @@ I learned
 1. HTML <img src="https://user-images.githubusercontent.com/95958815/214279877-870049ce-3f65-4df2-b879-1890daf55eea.png" height="15px"></img>
 2. CSS <img src="https://user-images.githubusercontent.com/95958815/214280301-63bcc2a0-3bda-4c16-8d77-bd25c7856a83.png" height="15px"></img>
 3. JavaScript <img src="https://user-images.githubusercontent.com/95958815/214280751-d375132b-e57d-44dd-8e98-149229037c31.png" height="15px"></img>
-4. Python <img src="https://user-images.githubusercontent.com/95958815/214281123-c5b29b44-e50b-4c23-b945-0b82737242cc.png" height="15px"></img>
-5. React.js <img src="https://user-images.githubusercontent.com/95958815/214281360-f9de2efe-2904-4c27-b9db-ce1b620a93b6.png" height="15px"></img>
+4. Python <img src="https://user-images.githubusercontent.com/95958815/214541638-28b43914-a303-4845-b5a5-2f0e38025d8f.png" height="15px"></img>
+5. React.js <img src="https://user-images.githubusercontent.com/95958815/214541419-f8b639a3-57c4-42c4-aefa-0f1a03933ff1.png" height="15px"></img>
 
 "And the learning journey doesnt end"
 ### Fun fact
