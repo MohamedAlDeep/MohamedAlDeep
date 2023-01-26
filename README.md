@@ -1,9 +1,9 @@
 ### Hi👋
 Hello there I am Mohamed Samir from Egypt. I had a background on programming when i was younger than now and since then i liked programming. I strarted
 learning real things in 2022 and i am still learning other things in 2023. 
-### About me
+### About me📄
 I am FrontEnd web developer and i am learning backend to become full stack and i am also learning AI and C++. 
-### Intrested in
+### Intrested in⭐
 I am intrested in Web development Frontend and Backend and AI (Deep Learning).
 
 I learned
@@ -14,9 +14,9 @@ I learned
 5. React.js <img src="https://user-images.githubusercontent.com/95958815/214542813-f57f4283-5174-4a80-affd-0d3ad32e509d.png" height="15px"></img>
 
 "And the learning journey doesnt end"
-### Fun fact
+### Fun fact🙂
 I like programming more than gaming.
 
-### Status
+### Status📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAlDeep&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
