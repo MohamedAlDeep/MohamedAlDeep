@@ -12,8 +12,8 @@ I learned
 3. JavaScript <img src="https://user-images.githubusercontent.com/95958815/214280751-d375132b-e57d-44dd-8e98-149229037c31.png" height="15px"></img>
 4. Python <img src="https://user-images.githubusercontent.com/95958815/214541638-28b43914-a303-4845-b5a5-2f0e38025d8f.png" height="15px"></img>
 5. React.js <img src="https://user-images.githubusercontent.com/95958815/214542813-f57f4283-5174-4a80-affd-0d3ad32e509d.png" height="15px"></img>
-6. Bash <img src="https://user-images.githubusercontent.com/95958815/214542813-f57f4283-5174-4a80-affd-0d3ad32e509d.png" height="15px"></img>
-"And the learning journey doesnt end"
+6. Bash <img src="https://user-images.githubusercontent.com/95958815/214889669-a03ffb40-2ab5-41fd-9f39-b5155cc13701.png" height="15px"></img>
+#### "The learning journey doesnt end"
 ### 🙂 Fun fact
 I like programming more than gaming.
 
@@ -22,6 +22,6 @@ I like programming more than gaming.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAlDeep&show_icons=true&theme=algolia&include_all_commit=true&count_private=true"/> 
 
-### Links
+### 🔗 Links
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mohamed31101950)
