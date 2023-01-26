@@ -20,7 +20,7 @@ I like programming more than gaming.
 ### 📊 Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAlDeep&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAlDeep&show_icons=true&theme=algolia&include_all_commit=true&count_private=true"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAlDeep&show_icons=true&theme=transparent&include_all_commit=true&count_private=true"/> 
 
 ### 🔗 Links
 
