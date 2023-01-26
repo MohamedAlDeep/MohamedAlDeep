@@ -13,7 +13,7 @@ I am intrested in Web development Frontend and Backend and AI (Deep Learning).
   </a>
 </p>
 
-### "The learning journey doesnt end"
+"The learning journey doesnt end"
 ### 🙂 Fun fact
 I like programming more than gaming.
 
