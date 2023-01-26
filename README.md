@@ -12,7 +12,8 @@ I am intrested in Web development Frontend and Backend and AI (Deep Learning).
     <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,bash,py,sass,stackoverflow,vite,vercel,vim,vscode,md,linux,atom,github" />
   </a>
 </p>
-#### "The learning journey doesnt end"
+
+### "The learning journey doesnt end"
 ### 🙂 Fun fact
 I like programming more than gaming.
 
