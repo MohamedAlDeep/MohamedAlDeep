@@ -25,3 +25,5 @@ I like programming more than gaming.
 ### 🔗 Links
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MoSamirAlDeep)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Happy+Coding;Mohamed+Al+Deep)](https://git.io/typing-svg)
