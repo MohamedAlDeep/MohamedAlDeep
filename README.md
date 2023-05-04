@@ -1,6 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coding...; Learning...)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72929&width=435&lines=Coding+.+.+.;Learning.++.+.;MoSamir)](https://git.io/typing-svg)
 
 ### 👋 Hi
 Hello there I am Mohamed Samir from Egypt. I had a background on programming when i was younger than now and since then i liked programming. I strarted
