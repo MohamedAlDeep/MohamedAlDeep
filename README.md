@@ -28,5 +28,4 @@ I like programming more than gaming.
 
 ### 🔗 Links
 
-
-Email: apps.main@hotmail.com
+<a href="apps.main@hotmail.com">Email</a>
