@@ -1,3 +1,7 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coding...; Learning...)](https://git.io/typing-svg)
+
+
 ### 👋 Hi
 Hello there I am Mohamed Samir from Egypt. I had a background on programming when i was younger than now and since then i liked programming. I strarted
 learning real things in 2022 and i am still learning other things in 2023. 
@@ -24,7 +28,5 @@ I like programming more than gaming.
 
 ### 🔗 Links
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MoSamirAlDeep)
-Email: apps.main@hotmail.com
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Happy+Coding;Mohamed+Al+Deep)](https://git.io/typing-svg)
+Email: apps.main@hotmail.com
