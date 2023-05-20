@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72929&width=435&lines=Coding+.+.+.;Learning.++.+.;MoSamir)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72929&width=435&lines=Learning.++.+.;Coding)](https://git.io/typing-svg)
 
 # Hi
 I like to do lots of things mostly doing web dev but i am also intrested in gamming and algorithms.
