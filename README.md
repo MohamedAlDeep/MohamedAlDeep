@@ -1,12 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72929&width=435&lines=Learning.++.+.;Coding)](https://git.io/typing-svg)
 
-# Hi
-I like to do lots of things mostly doing web dev but i am also intrested in gamming and algorithms.
-### About me
-I am FrontEnd web developer and i am learning backend to become full stack and i am also learning AI and C++. 
-### Intrested in
-I am intrested in Web development Frontend and Backend and AI (Deep Learning).
-
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
