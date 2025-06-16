@@ -10,7 +10,7 @@
 ### Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAlDeep&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAlDeep&show_icons=true&theme=transparent&include_all_commit=true&count_private=true"/> 
 
-
+https://github-readme-stats.hackclub.dev/api/wakatime?username=4313&api_domain=hackatime.hackclub.com&theme=ambient_gradient&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 
 ### Links
 
